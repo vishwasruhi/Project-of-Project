@@ -1,0 +1,56 @@
+<html>
+<title> this is validation</title>
+<style>
+body{
+background-image:url("1.jpg");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+</style>
+<form name="f1" method ="post" action="project.html">
+<center>User ID :<input type="email"name="t1" ></center><br>
+<center>password:<input type="password"name="t2"></center><br>
+<center><input type="submit" name="b1" value="sign in" onClick="check()"></center><br>
+</form>
+<script language="javascript" type="text/javascript">
+function check()
+{
+var str= f1.t1.value;
+var len=str.length; 
+var pos=str.indexOf("@");
+var pos1=str. lastIndexOf("@");
+ if(pos!=pos1)
+{
+alert(" incorrect email username");
+f1.t1.value="";
+f1.t1.focus();
+
+}
+else
+{
+alert(" correct email user name");
+}
+var d=str.slice(14,24);
+
+alert( "lenth is :"+len);
+alert(d);
+
+var a=f1.t2.value;  
+var plen=a.length;
+var f=a.slice(0,9);
+if(plen>=8)
+alert(" correct password");
+else
+alert(" incorrect or blank");
+f1.t2.value="";
+f1.t2.focus();
+alert(plen);
+alert(f);
+
+
+
+}
+
+</script>
+</body>
+</html>

@@ -1,0 +1,111 @@
+International paper sizes
+
+Map of the world showing adoption of ISO A4 (blue) vs. US-Letter (red)[clarification needed]
+Main article: ISO 216
+See Switching costs, Network effects and Standardization for possible reasons for differing regional adoption rates of the ISO standard sizes.
+The international paper size standard is ISO 216. It is based on the German DIN 476 standard for paper sizes. ISO paper sizes are all based on a single aspect ratio of the square root of 2, or approximately 1:1.4142. There are different series, as well as several extensions.
+
+The following international paper sizes are included in Cascading Style Sheets (CSS): A3, A4, A5, B4, B5.[2]
+
+A series
+
+A size chart illustrating the ISO A series.
+The base A0 size of paper is defined as having an area of 1 m2 and a side ratio of 1 by v2, making the A0 paper size exactly {\displaystyle {\sqrt[{4}]{2}}} {\sqrt[{4}]{2}} m × {\displaystyle {\frac {1}{\sqrt[{4}]{2}}}} {\displaystyle {\frac {1}{\sqrt[{4}]{2}}}} m. Rounded to the nearest millimetre, that is 841 by 1,189 millimetres (33.1 in × 46.8 in).
+
+Successive paper sizes in the series A1, A2, A3, and so forth, are defined by halving the preceding paper size across the larger dimension. This also effectively halves the area of each sheet. The most frequently used paper size is A4 measuring 210 by 297 millimetres (8.27 in × 11.7 in).
+
+The significant advantage of this system is its scaling: if a sheet with an aspect ratio of v2 is divided into two equal halves parallel to its shortest sides, then the halves will again have an aspect ratio of v2. Folded brochures of any size can be made by using sheets of the next larger size, e.g. A4 sheets are folded to make A5 brochures. The system allows scaling without compromising the aspect ratio from one size to another—as provided by office photocopiers, e.g. enlarging A4 to A3 or reducing A3 to A4. Similarly, two sheets of A4 can be scaled down and fit exactly on 1 sheet without any cutoff or margins.
+
+The behavior of the aspect ratio is easily proven: on a sheet of paper, let a be the long side and b be the short side; thus, 
+a
+/
+b
+ = v2. When the sheet of paper is folded in half widthwise, let c be the length of the new short side: c = 
+a
+/
+2
+. If we take the ratio of the newly folded paper we have:
+
+{\displaystyle {\frac {b}{c}}={\frac {b}{\frac {a}{2}}}={\frac {2}{\frac {a}{b}}}={\frac {2}{\sqrt {2}}}={\sqrt {2}}} {\frac {b}{c}}={\frac {b}{\frac {a}{2}}}={\frac {2}{\frac {a}{b}}}={\frac {2}{\sqrt {2}}}={\sqrt {2}}
+
+Therefore, the aspect ratio is preserved for the new dimensions of the folded paper.
+
+Weights are easy to calculate as well: a standard A4 sheet made from 80 g/m2 paper weighs 5 g (as it is ?1/16 of an A0 page, measuring 1 m2), allowing one to easily compute the weight—and associated postage rate—by counting the number of sheets used.
+
+The advantages of basing a paper size upon an aspect ratio of v2 were first noted in 1786 by the German scientist and philosopher Georg Christoph Lichtenberg.[3] The formats that became A2, A3, B3, B4 and B5 were developed in France on proposition of the mathematician Lazare Carnot and published for judiciary purpose in 1798 during the French Revolution.[4] Early in the 20th century, Dr Walter Porstmann turned Lichtenberg's idea into a proper system of different paper sizes. Porstmann's system was introduced as a DIN standard (DIN 476) in Germany in 1922, replacing a vast variety of other paper formats. Even today, the paper sizes are called "DIN A4" (IPA: [di?n.?a?.fi???]) in everyday use in Germany and Austria.
+
+The DIN 476 standard spread quickly to other countries. Before the outbreak of World War II, it had been adopted by the following countries:
+
+Belgium (1924)
+Netherlands (1925)
+Norway (1926)
+Finland (1927)
+Switzerland (1929)
+Sweden (1930)
+Soviet Union (1934)
+Hungary (1938)
+Italy (1939)
+During World War II, the standard was adopted by Uruguay (1942), Argentina (1943) and Brazil (1943), and afterwards spread to other countries:
+
+Spain (1947)
+Austria (1948)
+Iran (1948)
+Romania (1949)
+Japan (1951)
+Denmark (1953)
+Czechoslovakia (now Czech Republic and Slovakia) (1953)
+Israel (1954)
+Portugal (1954)
+Yugoslavia (now Croatia, Serbia, Slovenia, Bosnia and Herzegovina, Montenegro, Kosovo and Macedonia) (1956)
+India (1957)
+Poland (1957)
+United Kingdom (1959)
+Ireland (1959)
+Venezuela (1962)
+New Zealand (1963)
+Iceland (1964)
+Mexico (1965)
+South Africa (1966)
+France (1967)
+Peru (1967)
+Turkey (1967)
+Chile (1968)
+Greece (1970)
+Rhodesia (now Zimbabwe) (1970)
+Singapore (1970)
+Bangladesh (1972)
+Thailand (1973)
+Barbados (1973)
+Australia (1974)
+Ecuador (1974)
+Colombia (1975)
+Kuwait (1975)
+By 1975, so many countries were using the German system that it was established as an ISO standard, as well as the official United Nations document format. By 1977, A4 was the standard letter format in 88 of 148 countries. Today the standard has been adopted by all countries in the world except the United States and Canada. In Mexico, Costa Rica, Colombia, Venezuela, Chile, and the Philippines, the US letter format is still in common use, despite their official adoption of the ISO standard.
+
+B series
+
+A size chart illustrating the ISO B series.
+In addition to the A series, there is a less common B series. The area of B series sheets is the geometric mean of successive A series sheets. So, B1 is between A0 and A1 in size, with an area of 0.707 m2 (?1/v2 m2). As a result, B0 is 1 metre wide, and other sizes in the B series are a half, a quarter or further fractions of a metre wide. While less common in office use, it is used for a variety of special situations. Many posters use B-series paper or a close approximation, such as 50 cm × 70 cm; B5 is a relatively common choice for books. The B series is also used for envelopes and passports. The B-series is widely used in the printing industry to describe both paper sizes and printing press sizes, including digital presses. B3 paper is used to print two US letter or A4 pages side by side using imposition; four pages would be printed on B2, eight on B1, etc.
+
+C series
+
+A size chart illustrating the ISO C series.
+The C series is usually used for envelopes and is defined in ISO 269. The area of C series sheets is the geometric mean of the areas of the A and B series sheets of the same number; for instance, the area of a C4 sheet is the geometric mean of the areas of an A4 sheet and a B4 sheet. This means that C4 is slightly larger than A4, and slightly smaller than B4. The practical usage of this is that a letter written on A4 paper fits inside a C4 envelope, and C4 paper fits inside a B4 envelope.
+
+Some envelope formats with mixed sides from adjacent sizes (and thus an approximate aspect ratio of 2:1) are also defined in national adaptations of the ISO standard, e.g. DIN C6/C5 is 114 mm × 229 mm where the common side to C5 and C6 is 162 mm.
+
+Overview: ISO paper sizes
+ISO paper sizes in portrait view (with rounded inch values)
+Format	A series[5]	B series[6]	C series[7]
+Size	mm × mm	in × in	mm × mm	in × in	mm × mm	in × in
+0	841 × 1189	33.1 × 46.8	1000 × 1414	39.4 × 55.7	917 × 1297	36.1 × 51.1
+1	594 × 841	23.4 × 33.1	707 × 1000	27.8 × 39.4	648 × 917	25.5 × 36.1
+2	420 × 594	16.5 × 23.4	500 × 707	19.7 × 27.8	458 × 648	18.0 × 25.5
+3	297 × 420	11.7 × 16.5	353 × 500	13.9 × 19.7	324 × 458	12.8 × 18.0
+4	210 × 297	8.27 × 11.7	250 × 353	9.84 × 13.9	229 × 324	9.02 × 12.8
+5	148 × 210	5.83 × 8.27	176 × 250	6.93 × 9.84	162 × 229	6.38 × 9.02
+6	105 × 148	4.13 × 5.83	125 × 176	4.92 × 6.93	114 × 162	4.49 × 6.38
+7	74 × 105	2.91 × 4.13	88 × 125	3.46 × 4.92	81 × 114	3.19 × 4.49
+8	52 × 74	2.05 × 2.91	62 × 88	2.44 × 3.46	57 × 81	2.24 × 3.19
+9	37 × 52	1.46 × 2.05	44 × 62	1.73 × 2.44	40 × 57	1.57 × 2.24
+10	26 × 37	1.02 × 1.46	31 × 44	1.22 × 1.73	28 × 40	1.10 × 1.57

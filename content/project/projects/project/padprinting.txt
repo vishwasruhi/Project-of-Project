@@ -1,0 +1,45 @@
+<h2>Pad printing<h2>
+
+<p>
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2013) (Learn how and when to remove this template message)
+</p>
+<p>
+Example of pad printing on a keyboard.
+Part of a series on the
+History of printing
+Chodowiecki Basedow Tafel 21 c Z.jpg</p>
+<ul type="square">
+<li>Woodblock printing	200
+<li>Movable type	1040
+<li>Printing press	c.?1440
+<li>Etching	c.?1515
+<li>Mezzotint	1642
+<li>Aquatint	1772
+<li>Lithography	1796
+<li>Chromolithography	1837
+<li>Rotary press	1843
+<li>Hectograph	1869
+<li>Offset printing	1875
+<li>Hot metal typesetting	1884
+<li>Mimeograph	1886
+<li>Photostat and rectigraph	1907
+<li>Screen printing	1911
+<li>Spirit duplicator	1923
+<li>Dot matrix printing	1925
+<li>Xerography	1938
+<li>Phototypesetting	1949
+<li>Inkjet printing	1951
+<li>Dye-sublimation	1957
+<li>Laser printing	1969
+<li>Thermal printing	c.?1972
+<li>3D printing	1981
+<li>Solid Ink printing	1986
+<li>Digital printing	1991
+<p>
+Pad printing (also called tampography) is a printing process that can transfer a 2-D image onto a 3-D object. This is accomplished using an indirect offset (gravure) printing process that involves an image being transferred from the cliché via a silicone pad onto a substrate. Pad printing is used for printing on otherwise difficult to print on products in many industries including medical, automotive, promotional, apparel, and electronic objects, as well as appliances, sports equipment and toys. It can also be used to deposit functional materials such as conductive inks, adhesives, dyes and lubricants.
+</p>
+<p>
+Physical changes within the ink film both on the cliché and on the pad allow it to leave the etched image area in favor of adhering to the pad, and to subsequently release from the pad in favor of adhering to the substrate.
+</p>
+<p>
+The unique properties of the silicone pad enable it to pick the image up from a flat plane and transfer it to a variety of surfaces, such as flat, cylindrical, spherical, compound angles, textures, concave, or convex surfaces.</p>

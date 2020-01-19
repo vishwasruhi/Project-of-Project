@@ -1,0 +1,1 @@
+Limitations of CMYK and why printing RGB designs might not come out the same. The reason why RGB designs printed in CMYK don't look the same is because the CMYK colorspace does not include all the colors in the color spectrum that RGB includes. This can be shown in the picture below.May 1, 2012

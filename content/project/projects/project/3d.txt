@@ -1,0 +1,64 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+<style>
+	 body{
+	   background: linear-gradient(to top left, #3333cc 0%, #ffffff 100%);
+	 }
+	</style>
+</head>
+<body>
+<h3 font size =15>3D printing</h3>
+<p>
+For methods of transferring an image onto a 3D surface, see pad printing. For methods of generating autostereoscopic lenticular images, see lenticular printing and holography.</p>
+<p>
+A MakerBot three-dimensional printer
+Part of a series on the History of printing
+<ul type ="circle">
+<li>Chodowiecki Basedow Tafel 21 c Z.jpg
+<li>Woodblock printing	200
+<li>Movable type	1040
+<li>Printing press	1440
+<li>Etching	1515
+<li>Mezzotint	1642
+<li>Aquatint	1772
+<li>Lithography	1796
+<li>Chromolithography	1837
+<li>Rotary press	1843
+<li>Hectograph	1869
+<li>Offset printing	1875
+<li>Hot metal typesetting	1884
+<li>Mimeograph	1886
+<li>Photostat and rectigraph	1907
+<li>Screen printing	1911
+<li>Spirit duplicator	1923
+<li>Dot matrix printing	1925
+<li>Xerography	1938
+<li>Phototypesetting	1949
+<li>Inkjet printing	1951
+<li>Dye-sublimation	1957
+<li>Laser printing	1969
+<li>Thermal printing	c.?1972
+<li>3D printing	1981
+<li>Solid Ink printing	1986
+<li>Digital printing	1991
+</ul>
+</p>
+<p>
+3D printing refers to processes in which material is joined or solidified under computer control to create a three-dimensional object,with material being added together (such as liquid molecules or powder grains being fused together). 3D printing is used in both rapid prototyping and additive manufacturing (AM). Objects can be of almost any shape or geometry and typically are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file (usually in sequential layers). There are many different technologies, like stereolithography (STL) or fused deposit modeling (FDM). Thus, unlike material removed from a stock in the conventional machining process, 3D printing or AM builds a three-dimensional object from computer-aided design (CAD) model or AMF file, usually by successively adding material layer by layer.
+</p>
+<p>
+The term "3D printing" originally referred to a process that deposits a binder material onto a powder bed with inkjet printer heads layer by layer. More recently, the term is being used in popular vernacular to encompass a wider variety of additive manufacturing techniques. United States and global technical standards use the official term additive manufacturing for this broader sense, since the final goal of additive manufacturing is to achieve mass-production, which greatly differs from 3D printing for Rapid prototyping.
+</p>
+
+<h3>Terminology</h3>
+<p>
+The umbrella term additive manufacturing (AM) gained wide currency in the 2000s, inspired by the theme of material being added together (in any of various ways). In contrast, the term subtractive manufacturing appeared as a retronym for the large family of machining processes with material removal as their common theme. The term 3D printing still referred only to the polymer technologies in most minds, and the term AM was likelier to be used in metalworking and end use part production contexts than among polymer, inkjet, or stereolithography enthusiasts.
+</p>
+<p>
+By the early 2010s, the terms 3D printing and additive manufacturing evolved senses in which they were alternate umbrella terms for AM technologies, one being used in popular vernacular by consumer-maker communities and the media, and the other used more formally by industrial AM end-use part producers, AM machine manufacturers, and global technical standards organizations. Until recently, the term 3D printing has been associated with machines low-end in price or in capability. Both terms reflect that the technologies share the theme of material addition or joining throughout a 3D work envelope under automated control. Peter Zelinski, the editor-in-chief of Additive Manufacturing magazine, pointed out in 2017 that the terms are still often synonymous in casual usage but that some manufacturing industry experts are increasingly making a sense distinction whereby AM comprises 3D printing plus other technologies or other aspects of a manufacturing process.</p>
+<p>
+Other terms that have been used as AM synonyms or hypernyms have included desktop manufacturing, rapid manufacturing (as the logical production-level successor to rapid prototyping), and on-demand manufacturing (which echoes on-demand printing in the 2D sense of printing). That such application of the adjectives rapid and on-demand to the noun manufacturing was novel in the 2000s reveals the prevailing mental model of the long industrial era in which almost all production manufacturing involved long lead times for laborious tooling development. Today, the term subtractive has not replaced the term machining, instead complementing it when a term that covers any removal method is needed. Agile tooling is the use of modular means to design tooling that is produced by additive manufacturing or 3D printing methods, to enable quick prototyping and responses to tooling and fixture needs. Agile tooling uses a cost effective and high quality method to quickly respond to customer and market needs, and it can be used in hydro-forming, stamping, injection molding and other manufacturing processes.</p>
+</body>
+<html>

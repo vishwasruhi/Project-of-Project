@@ -1,0 +1,34 @@
+Digital ceramic printing on glass
+From Wikipedia, the free encyclopedia
+Digital ceramic printing on glass is a technological development used for the application of imagery, pattern or text to the surface of flat glass. Like other printing on glass methods, it uses a form of printmaking. Digital ceramic printing on glass has allowed for new possibilities and improvements in flat glass decoration and treatment[1] such as high levels of customization, translucency and opacity control, light diffusion and transmission, ability to calculate solar heat gain co-efficiency,[1] electrical conductivity, slip resistance, and reduced incidences of bird collision.
+
+Contents 
+1	History
+2	Process
+3	Essential elements
+3.1	Digital glass printer
+3.2	Digital ceramic inks
+3.3	Image processing software
+4	References
+5	External links
+History
+Unlike paper or fabric, glass is nonabsorbent and transparent so applying digital printing technology had to be adapted to overcome the challenges presented by the glass itself. Until 2007 the two main methods of printing on glass were silk screen printing and digital UV printing. Silk screen printing, where the ink is applied directly onto the surface of the glass through a mesh stencil, was patented in 1907. Screen printed transfers, where the image is transferred from a paper onto the glass, was patented in the 1930s by Johnson Mattey. Firing is necessary in both methods in order for the ink to be permanently infused with the glass.[2]
+
+Printing on glass with UV pinning and curable inks came about almost 60 years later. In this method of printing, ultraviolet waves are applied on the inks, drying them to the glass. This method was the first to enable the digital printing on glass of any digital image including multi color and complex images. Since UV curable inks are not fused with the glass the same way ceramic inks are, the printed outcome lacks a level of durability necessary for certain projects, namely external applications for automotive glass and architectural glass.[3]
+
+Process
+Digital printing with ceramic inks, desirable for decorative, functional and environmental purposes, poses a new set of challenges addressed through technological innovations. At the most advanced level, digital glass printers, ceramic inks, and image processing software are fully integrated with one another and each contributes to the overall advancements in the digital printing on glass process.[4] The three part system allows for control and flexibility over the application of the ceramic inks. Transparency and levels of translucency and opacity can be precisely manipulated. There is a high level of control over color matching, and multiple colors can be printed simultaneously. Unlike screen printing, digital ceramic printing on glass does not require screens and the files are stored digitally making printing of all sizes and replacement of any panel simple, in high resolution, full color.[3]
+
+When using ceramic frit based inks the glass is fired or tempered to fuse the inks with the glass. Due to the extreme temperatures of this process there is first a decomposition of organic additives and binders of the ink. Next there is a fusion of the frit to the substrate and pigments followed by the expulsion of voids to give a compacted structure. Lastly there is a formation of a surface with the desire properties. A successful firing of the glass and ceramic ink will result in a bubble free layer of constant thickness and homogeneous pigment dispersion within the glass.
+
+Essential elements
+Digital glass printer
+The digital glass printer is a flatbed digital printer designed with print heads to jet ceramic inks directly onto the glass.[5] The glass remains stationary while only the printer carriage sweeps across the print table. A key feature of the printer is drop fixation in which ink droplets are dried immediately to prevent drop gain. The fixation of the ink enables a single pass of the print carriage even when printing multi layer and multi color files. The drop fixation makes inline double vision printing possible. Double vision is creating a different vision depending on which side of the glass is being viewed it is achieved by printing different graphics one on top of the other. An inline dryer was developed for real time drying to occur and to maximize factory space. A smooth color switching system in included so machine operators can easily shift between print jobs and increase throughput. The high resolution print quality - up to 720 dpi - and the precision of the printers allow glass processors to print anything from fine, sharp, small elements to complex full color images on glasses up to 3.3X18 meters in size.[4]
+
+Digital ceramic inks
+The inks used in digital printing on glass mimic the CMYK color model and are made of ceramic frit and inorganic pigments and elements. The development of inks is a highly controlled production process to remove any variability in the final product. The consistency in replication of the inks results in high compatibility with the entire color palette of inks. The inks can therefore be digitally mixed and designers will know the precise outcome of the color every time. Printed glass panels can also be replaced when necessary without the risk of the new panels not matching the colors of the existing panels. The inks are also fully integrated with the machine and the image processing software meaning the development and the application of the inks required innovations both in science and technology.[4]
+
+
+
+Image processing software
+The image processing software bridges the glass printer and the inks and is also the design tool for preparing the graphic file for printing. The software is more than a photo raster; it calculates ink usage to control levels of translucency and opacity, to control color matching and mixing, and to compensate for different glass sizes and thicknesses. The precision and complexity of the calculations and measurements executed by the software allows designers can achieve their desired outcome. Digital ceramic printing on glass has expanded the options for printing on glass. UV and silk screen printing have limitations that the digital printing overcomes. Digitally printed glass can be applied both to interior and exterior surfaces, the most simple to complex graphic illustrations can be printed in the CMYK color model.[5]

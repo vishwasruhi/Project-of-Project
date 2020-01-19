@@ -1,0 +1,26 @@
+<h2>Screeen printing</h2>
+<p>
+
+A screen is made of a piece of mesh stretched over a frame. The mesh could be made of a synthetic polymer, such as nylon, and a finer and smaller aperture for the mesh would be utilized for a design that requires a higher and more delicate degree of detail. For the mesh to be effective, it must be mounted on a frame and it must be under tension. The frame which holds the mesh could be made of diverse materials, such as wood or aluminum, depending on the sophistication of the machine or the artisan procedure. The tension of the mesh may be checked by using a tensiometer; a common unit for the measurement of the tension of the mesh is Newton per centimeter (N/cm).</p>
+<p>
+A stencil is formed by blocking off parts of the screen in the negative image of the design to be printed; that is, the open spaces are where the ink will appear on the substrate.
+</p>
+<p>
+Before printing occurs, the frame and screen must undergo the pre-press process, in which an emulsion is 'scooped' across the mesh and the 'exposure unit' burns away the unnecessary emulsion leaving behind a clean area in the mesh with the identical shape as the desired image. The surface to be printed (commonly referred to as a pallet) is coated with a wide 'pallet tape'. This serves to protect the 'pallet' from any unwanted ink leaking through the screen and potentially staining the 'pallet' or transferring unwanted ink onto the next substrate. Next, the screen and frame are lined with a tape. The type of tape used in for this purpose often depends upon the ink that is to be printed onto the substrate. These aggressive tapes are generally used for UV and water-based inks due to the inks' lower viscosities. The last process in the 'pre-press' is blocking out any unwanted 'pin-holes' in the emulsion. If these holes are left in the emulsion, the ink will continue through and leave unwanted marks. To block out these holes, materials such as tapes, speciality emulsions and 'block-out pens' may be used effectively.</p>
+<p>
+The screen is placed atop a substrate. Ink is placed on top of the screen, and a floodbar is used to push the ink through the holes in the mesh. The operator begins with the fill bar at the rear of the screen and behind a reservoir of ink. The operator lifts the screen to prevent contact with the substrate and then using a slight amount of downward force pulls the fill bar to the front of the screen. This effectively fills the mesh openings with ink and moves the ink reservoir to the front of the screen. The operator then uses a squeegee (rubber blade) to move the mesh down to the substrate and pushes the squeegee to the rear of the screen. The ink that is in the mesh opening is pumped or squeezed by capillary action to the substrate in a controlled and prescribed amount, i.e. the wet ink deposit is proportional to the thickness of the mesh and or stencil. As the squeegee moves toward the rear of the screen the tension of the mesh pulls the mesh up away from the substrate (called snap-off) leaving the ink upon the substrate surface.
+</p>
+<h3>There are three common types of screen printing presses. The 'flat-bed', 'cylinder', 'rotary'.</h3>
+<p>
+Textile items printed with multicoloured designs often use a wet on wet technique, or colours dried while on the press, while graphic items are allowed to dry between colours that are then printed with another screen and often in a different colour after the product is re-aligned on the press.
+</p>
+<p>
+Most screens are ready for re-coating at this stage, but sometimes screens will have to undergo a further step in the reclaiming process called dehazing. This additional step removes haze or "ghost images" left behind in the screen once the emulsion has been removed. Ghost images tend to faintly outline the open areas of previous stencils, hence the name. They are the result of ink residue trapped in the mesh, often in the knuckles of the mesh (the points where threads cross).</p>
+<p>
+While the public thinks of garments in conjunction with screen printing, the technique is used on tens of thousands of items, including decals, clock and watch faces, balloons, and many other products. The technique has even been adapted for more advanced uses, such as laying down conductors and resistors in multi-layer circuits using thin ceramic layers as the substrate.
+</p>
+</body>
+</html>
+
+
+
